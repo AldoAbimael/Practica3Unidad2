@@ -7,7 +7,7 @@
         "npx",
         "-y",
         "@modelcontextprotocol/server-filesystem",
-        "C:\\Users\\aldot\\OneDrive\\Documentos\\Programas Python\\Práctica 3 unidad 2"
+        "C:\\Users\\TU_USUARIO\\OneDrive\\Documentos\\Programas Python\\Práctica 3 unidad 2"
       ]
     },
     "playwright": {
