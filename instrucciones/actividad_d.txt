@@ -1,0 +1,1 @@
+Usa las herramientas del servidor MCP sequential-thinking para analizar paso a paso en 3 etapas: (1) qué riesgo de seguridad existe al combinar playwright con filesystem si una página web contiene prompt injection, (2) qué mecanismo de MCP detiene el acceso a carpetas fuera del proyecto, y (3) cómo documentarlo.
